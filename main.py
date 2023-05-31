@@ -31,5 +31,6 @@ while game:
 
     clock.tick(FPS)
     pygame.display.update()
-    d
+    
+    
 
